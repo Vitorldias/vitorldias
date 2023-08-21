@@ -23,12 +23,8 @@
   <a href = "mailto:vitorldias93@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-dias-943b44230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/vitorldias/vitorldias/blob/output/github-user-contribution.svg)
+  ![Snake animation](https://github.com/vitorldias/vitorldias/blob/output/[github-user-contribution.svg](https://platane.github.io/snk/)https://platane.github.io/snk/)
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
-</picture>
+
 
 </div>
